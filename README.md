@@ -67,6 +67,9 @@ For a comprehensive explanation of the methodology, experiments, and results, pl
 
 This project is for educational purposes. Please check dataset and model licenses for any usage restrictions.
 
----
+
 
 *Created February 2026*
+
+# Fake-News-Prediction-using-NLP
+
