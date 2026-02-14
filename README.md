@@ -71,5 +71,4 @@ This project is for educational purposes. Please check dataset and model license
 
 *Created February 2026*
 
-# Fake-News-Prediction-using-NLP
 
